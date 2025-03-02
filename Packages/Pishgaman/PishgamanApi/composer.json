@@ -1,0 +1,15 @@
+{
+    "name": "Pishgaman/PishgamanApi",
+    "description": "",
+    "authors": [{
+        "name": "",
+        "email": ""
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Pishgaman\\PishgamanApi\\": "src/"
+        }
+    }
+}
+

@@ -1,0 +1,16 @@
+{
+    "name": "Pishgaman/BackUpDB",
+    "description": "BackUp database for Pishgaman CMS",
+    "authors": [{
+
+        }],
+        "require": {
+            "Pishgaman/LogActivity" : "^1.0"
+        },
+        "autoload": {
+            "psr-4": {
+                "Pishgaman\\BackUpDB\\": "src/"
+            }
+        }
+    }
+
